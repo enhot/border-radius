@@ -47,7 +47,7 @@ HTML
     <input type="range" min="0" max="100" value="0" class="rt3">
     <input type="text" class="tt3" value="0">
   </p>
-  <p> Нижгий правый угол
+  <p> Нижний правый угол
     <input type="range" min="0" max="100" value="0" class="rt4">
     <input type="text" class="tt4" value="0">
   </p>
